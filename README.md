@@ -1,12 +1,12 @@
 # Convert Image To Binary
 A simple java one class program to convert jpg image to binary text representation.
 
-##Purpose
+## Purpose
 * Demonstrate basic digital image processing using java.
 * Demonstrate how to convert jpg image to binary(1/0) image using java.
 * Demonstrate how to control noise using threshold.
 
-##Reference
+## Reference
 Digital Image Processing: A Practical Introduction Using Java - Nick Efford
 
 ## How to use:
