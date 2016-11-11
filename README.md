@@ -7,7 +7,7 @@ A simple java one class program to convert jpg image to binary text representati
 * Demonstrate how to control noise using threshold.
 
 ##Features
-* Convert  jpg(color, grey,  black/whte) image kpd bentuk binari image(1/0).
+* Convert  jpg(color, grey,  black/whte) image to binary (1 and 0).
 * Reduce image noise using threshold.
 
 ## How to use:
