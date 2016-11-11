@@ -10,6 +10,9 @@ A simple java one class program to convert jpg image to binary text representati
 * Convert  jpg(color, grey,  black/whte) image to binary (1 and 0).
 * Reduce image noise using threshold.
 
+#Reference
+Digital Image Processing: A Practical Introduction Using Java - Nick Efford
+
 ## How to use:
 1. Add image in the root folder.
 2. Change file name in processImage("john-lennon.jpg") in Convert.java.

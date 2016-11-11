@@ -5,8 +5,6 @@ import java.awt.image.*;
 import java.io.*;
 
 /*  
- *  Authors                 : jemiro A.K.A azmeer
- *  E-mail                  : waltzno8@yahoo.com
  *  Purpose                 : Demonstrate basic digital image processing using java.
  *                            Demonstrate how to convert jpg image to binary image using java.
  *                            Demonstrate how to control noise using threshold.
