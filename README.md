@@ -1,2 +1,1 @@
-# convert-image-to-binary
-convert-image-to-binary
+# Convert Image To Binary Text File
